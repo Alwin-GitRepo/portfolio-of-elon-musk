@@ -167,6 +167,11 @@ p{
     margin-bottom: 20px;
 }
 
+.others{
+    display: flex;
+    height: 400px;
+}
+
 .others dl dt{
     color: rgb(230, 135, 46);
     text-align: left;
